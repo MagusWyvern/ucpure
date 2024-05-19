@@ -1,0 +1,31 @@
+{
+  "name": "ucpure",
+  "displayName": "com.ucpure",
+  "version": "1.0.0",
+  "description": "Eco-friendly cleaning service solutions for students and staff (Uni Assignment Project)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MagusWyvern/ucpure.git"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "MagusWyvern",
+  "license": "MITs",
+  "bugs": {
+    "url": "https://github.com/MagusWyvern/ucpure/issues"
+  },
+  "homepage": "https://github.com/MagusWyvern/ucpure#readme",
+  "devDependencies": {
+    "cordova-browser": "^7.0.0"
+  },
+  "cordova": {
+    "platforms": [
+      "browser"
+    ]
+  }
+}

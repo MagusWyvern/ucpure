@@ -12,7 +12,6 @@
     "url": "git+https://github.com/MagusWyvern/ucpure.git"
   },
   "keywords": [
-    "ecosystem:cordova"
   ],
   "author": "MagusWyvern",
   "license": "MITs",
@@ -21,11 +20,6 @@
   },
   "homepage": "https://github.com/MagusWyvern/ucpure#readme",
   "devDependencies": {
-    "cordova-browser": "^7.0.0"
-  },
-  "cordova": {
-    "platforms": [
-      "browser"
-    ]
+    
   }
 }
